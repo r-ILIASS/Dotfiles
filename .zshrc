@@ -76,6 +76,7 @@ DISABLE_AUTO_UPDATE="true"
 plugins=(
 				git
 				zsh-autosuggestions
+				copydir
 				)
 
 source $ZSH/oh-my-zsh.sh
